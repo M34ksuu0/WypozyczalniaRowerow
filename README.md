@@ -55,12 +55,12 @@ Funkcje – podział programu na poszczególne operacje
 
 Każdy rower przechowuje następujące informacje:
 
-    Pole	Typ	Opis
-    id	int	Unikalny identyfikator roweru
-    opis	string	Opis roweru
-    rodzaj	string	Rodzaj roweru
-    cena	double	Cena za godzinę
-    wypozyczony	bool	Status wypożyczenia
+Pole	    Typ	    Opis
+id	        int	    Unikalny identyfikator roweru
+opis	    string	Opis roweru
+rodzaj	    string	Rodzaj roweru
+cena	    double	Cena za godzinę
+wypozyczony	bool	Status wypożyczenia
 
 🖥️ Menu programu
 =========== WYPOZYCZALNIA ROWEROW ==========
