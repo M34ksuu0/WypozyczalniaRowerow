@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1793606398 source:c:\users\admin\desktop\zadanierowery\main.cpp
+	<iostream>
+	<vector>
+	<iomanip>
+	<string>
+	<limits>
+
