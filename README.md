@@ -1,4 +1,4 @@
-🚲 Wypożyczalnia Rowerów – C++
+# 🚲 Wypożyczalnia Rowerów – C++
 📌 Opis projektu
 
 Program konsolowy napisany w języku C++, służący do obsługi wypożyczalni rowerów. Umożliwia zarządzanie rowerami, ich wypożyczanie oraz zwracanie z automatycznym obliczaniem kosztów.
