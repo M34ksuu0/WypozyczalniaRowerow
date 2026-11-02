@@ -70,3 +70,5 @@ wypozyczony	bool	Status wypożyczenia
 4. Wyswietl rowery
 0. Wyjscie
 ============================================
+
+Projekt wzorcowy do przygotowania się do egzaminu INF.04
